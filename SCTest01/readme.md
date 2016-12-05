@@ -21,6 +21,14 @@
 
 > c.目的：主要是在理解Struts框架原理的基础上，仿造Struts框架，使用MVC设计模式，实现和Struts类似的功能。
 
+**测试运行**
+
+> 测试时运行：http://localhost/SCTest01
+
+> 登录用户名：admin，密码：123456
+
+> 主要逻辑是：登录界面-->登录成功/失败-->首页（如果成功）
+
 **代码目录结构**
 
 ![代码目录结构](https://raw.githubusercontent.com/linmufeng/SimpleController/master/SCTest01/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%9B%BE.PNG)
